@@ -6,7 +6,7 @@ But along this journey, I also realized that I was completely misguided in my un
 
 I've spoken with a few dozen software engineers of varying experience levels. Very few are using AI in a way that significantly alters their productivity. Most software engineers have experienced some nice benefits with ChatGPT in its ability to teach them how code works, or about syntactic meaning, usually by copying code out of their text editor and pasting into ChatGPT directly and asking a question about it. Most have also had some minor encounters (with varying success) with GitHub's Copilot in reviewing PRs or asking it questions. Some have dabbled with Cursor or VS Code's integration with Claude, but most have not made full switches to relying on these tools. Few have not yet used ChatGPT or Copilot.
 
-
+![Adoption Curve](/assets/curve.jpeg)
 
 This post is aimed at bringing some peace and a reality check to those who might be feeling fearful or unclear about the current state of AI adoption within software engineering. If you haven't yet had significant gains from it, that's completely normal. You're in the majority. But it's also an absolutely wonderful day to begin leaning into it more heavily, as the companies aimed at onboarding you are doing a beautiful job at making it easy for you to play with it in a low-stakes, easy-to-pickup way!
 
